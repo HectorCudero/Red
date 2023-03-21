@@ -2,4 +2,4 @@ User-agent: *
 Allow: /
 Disallow: /admin/
 Disallow: /info-demo.txt
-Sitemap:
+Sitemap:http://hectorcudero.com/sitemap
